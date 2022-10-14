@@ -1,2 +1,1 @@
-#note on west african climate drivers
-brief explaination of kelvin and equtorial rossby waves
+#brief explaination note on west african climate drivers
